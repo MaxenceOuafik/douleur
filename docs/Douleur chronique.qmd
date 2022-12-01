@@ -1,0 +1,352 @@
+---
+title: "Formation douleurs chroniques (partie I)"
+format:
+  revealjs:
+    transition: fade
+    transition-speed: slow
+    theme: [default, theme.scss]
+    slide-number: true
+    chalkboard: true
+    multiplex: true
+editor: visual
+logo: logo.png
+footer: "Douleurs chroniques — Introduction et évaluation"
+---
+
+# Introduction {background-color="#006f7d"}
+
+## La douleur chronique est un enjeu de santé publique
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+-   Prévalence supérieure au diabète, maladies cardiaques et cancers **combinés**
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+-   Associée à des coûts médicaux augmentés, des pertes de revenus, un fardeau financier énorme, ainsi qu'à un **impact profond sur la qualité de vie des patients**
+:::
+
+## Douleur et lésion sont deux concepts différents
+
+::: callout-important
+La douleur est une **expérience** sensorielle désagréable **ressemblant** à celle liée à une lésion tissulaire réelle ou potentielle.
+:::
+
+![](Perception%20de%20la%20douleur.png){fig-align="center"}
+
+::: notes
+Deux choses sont à retenir de cette définition :
+
+-   La première, c'est que la douleur est une expérience éminemment personnelle. Autrement dit, *si le patient dit qu'il a mal, c'est qu'il a réellement mal*.
+
+-   \- Deuxièmement, **il y a un découplage entre douleur et lésion**, comme illustré ci-dessous. Un patient peut avoir horriblement mal sans aucune lésion, s'il est persuadé que le clou a transpercé son pied et sa chaussure, alors que seul la chaussure a été touchée. Dans le même temps, le patient de droite ne s'était pas rendu compte qu'il avait reçu un clou dans l'orbite et ne s'était présenté aux urgences que plusieurs jours après, avec une gêne plutôt qu'une douleur. Cela est lié à l'importance des facteurs psychosociaux tels que la **mémoire** et les **croyances**.
+:::
+
+## Le modèle biopsychosocial de la douleur chronique
+
+::: columns
+::: {.column width="60%"}
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+![Modèle de la fleur](Mod%C3%A8le%20de%20la%20fleur.png){height="400"}
+:::
+:::
+:::
+
+::: {.column width="40%"}
+::: {.fragment .fade-in fragment-index="2"}
+![Modèle de la tasse](Mod%C3%A8le%20de%20la%20tasse.png){width="468" height="400"}
+:::
+:::
+:::
+
+::: notes
+Le modèle de la fleur a l'avantage de montrer la bidirectionnalité des liens entre facteurs biopsychosociaux et émergence d'un syndrome douloureux chronique
+
+Le modèle de la tasse permet de montrer que c'est l'accumulation qui fait déborder la tasse et que se focaliser sur un seul aspect (la santé des tissus par exemple) ne suffit pas à la vider
+:::
+
+## Le phénomène de sensibilisation centrale
+
+![Phénomène de sensibilisation centrale](Sensibilisation%20centrale.png){fig-align="center"}
+
+::: notes
+La douleur aiguë est liée à une activation des nocicepteurs ou une lésion neurale. La douleur chronique, de son côté, est **nociplastique** en nature, et liée à un phénomène de **sensibilisation centrale** suite à l'activation prolongée des voies nociceptives. Cette sensibilisation centrale est liée à différents phénomènes :
+
+-   Une augmentation de l'activité dans les voies facilitant la nociception ; *comme une petite route de campagne qui devient une autoroute à force d'être empruntée*
+
+-   Une diminution des capacités d'analgésie endogène
+
+-   Une altération du des processus sensoriels dans le cerveau
+
+Un même influx douloureux est donc largement amplifié, *comme si on poussait au maximum le volume de la chaîne hi-fi*. Les conséquences de cela sont :
+
+-   Une **hyperalgésie** ou une **allodynie** liée à la diminution du seuil d'activation aux stimuli périphériques
+
+-   Des **douleurs spontanées** liée à l'augmentation de l'activité spontanée
+
+-   Une **extension de la douleur** par-delà sa zone originelle, due à l'extension du champ neuronal réagissant à l'influx
+:::
+
+# Évaluation du patient douloureux chronique {background-color="#006f7d"}
+
+## Le modèle PSCEBSM
+
+![](PSCEBSM.png){fig-align="center"}
+
+## P : identifier le type de douleur
+
+Il existe trois types de douleurs principaux : nociceptive, neuropathique et nociplastique
+
+::: panel-tabset
+## Douleur nociceptive
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+-   Lésion **réelle ou potentielle** de tissu non neural entraînant l'activation des nocicepteurs
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+-   Douleur locale
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+::: {.fragment .semi-fade-out fragment-index="4"}
+-   Peut irradier selon des schémas typiques
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="4"}
+-   Correspond généralement à la gravité de la lésion
+:::
+
+## Douleur neuropathique
+
+::: {.fragment .fade-in fragment-index="5"}
+::: {.fragment .semi-fade-out fragment-index="6"}
+-   Lésion ou maladie affectant le système nerveux somatosensoriel
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="6"}
+::: {.fragment .semi-fade-out fragment-index="7"}
+-   Lancinante, brûlante
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="7"}
+-   Peut s'accompagner de paresthésies
+:::
+
+## Douleur nociplastique
+
+::: {.fragment .fade-in fragment-index="8"}
+::: {.fragment .semi-fade-out fragment-index="9"}
+-   Douleur *chronique* résultant d'une *altération de la nociception* malgré l'absence de lésion ou de menace de lésion
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="9"}
+::: {.fragment .semi-fade-out fragment-index="10"}
+-   Due à un phénomène de sensibilisation centrale
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="10"}
+::: {.fragment .semi-fade-out fragment-index="11"}
+-   Douleur diffuse, sans logique neuroanatomique, démesurée par rapport à la lésion, si lésion il y a
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="11"}
+-   Allodynie, hyperalgie
+:::
+:::
+
+------------------------------------------------------------------------
+
+### Le diagnostic de douleur nociplastique est un diagnostic d'exclusion
+
+![Diagnostic de la douleur nociplastique](Diagnostic%20nociplastique%20IASP.png)
+
+::: notes
+-   Sensibilité accrue au bruit, à la lumière ou aux odeurs
+-   Troubles du sommeil avec réveils nocturnes fréquents
+-   Fatigue
+-   Troubles cognitifs (concentration, mémoire, attention)
+:::
+
+------------------------------------------------------------------------
+
+### En pratique
+
+1.  Exclure une douleur neuropathique ➡️ **DN4**
+2.  Exclure une douleur nociceptive ➡️ **inventaire de sensibilisation centrale** et **indice de douleur étendue**
+
+![Indice de douleur étendue](WPI.png){fig-align="center"}
+
+## S : identifier les facteurs somatiques
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+-   La présence de maladie présente ou passée qui peuvent influencer une sensibilisation centrale
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+-   L'inutilisation ou la mauvaise utilisation de certains membres
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+::: {.fragment .semi-fade-out fragment-index="4"}
+-   Des changements dans les patterns de mouvements
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="4"}
+::: {.fragment .semi-fade-out fragment-index="5"}
+-   Les aptitudes pour l'exercice physique La force et le tonus musculaire durant les mouvements
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="5"}
+-   Certains médicaments tels que les opioïdes
+:::
+
+::: notes
+L'objectif de l'examen physique est d'appuyer ou de réfuter le tableau de sensibilisation centrale. Il faut évaluer la qualité des mouvements (tonus exagéré, garde excessive), la présence de kinésiophobie. Des exemples de comportements indicateurs d'une kinésiophobie sont : redresser la colonne pour éviter les mouvements de flexion du rachis, majorer son tonus musculaire avant le mouvement, retenir sa respiration en bougeant, montrer des signes verbaux ou non verbaux de peur lors des mouvements, ou avoir des patterns de mouvement erratiques.
+:::
+
+## C : identifier les facteurs cognitifs
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+-   Explorer les représentations du patient sur l'identité de la douleur, sa cause, ses conséquences, sa durée et son traitement
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+-   Importance de l'*auto-efficacité*
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+-   Importance de la catastrophisation ➡️ échelle de catastrophisation
+:::
+
+::: notes
+Les mauvaises croyances et représentations sur la douleur peuvent être des obstacles importants à la prise en charge. Un patient qui pense que la douleur qu'il ressent lorsqu'il bouge signifie qu'il doit arrêter de bouger va s'enfoncer dans un cercle vicieux de déconditionnement physique. Il faut d'abord déconstruire cette croyance avant de pouvoir espérer faire du progrès.
+
+| Question                                                                                  | Dimension       |
+|------------------------------------|------------------------------------|
+| D'où vient cette douleur ?                                                                | Identité        |
+| Qu'est-ce qui cause cette douleur ?                                                       | Cause           |
+| Quelles sont les conséquences de la douleur/de telle activité/d'un mouvement douloureux ? | Conséquences    |
+| Combien de temps pensez-vous que ça va durer ?                                            | Durée           |
+| Quel est le traitement nécessaire selon vous ?                                            | Traitement      |
+| Que pouvez-vous faire pour contrôler vos plaintes ?                                       | Auto-efficacité |
+:::
+
+## E : identifier les facteurs émotionnels
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+-   Anxiété ➡️ *STAI*
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+-   Dépression ➡️ *PHQ-9*
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+::: {.fragment .semi-fade-out fragment-index="4"}
+-   Colère, injustice ➡️ *IEQ*
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="4"}
+-   Kinésiophobie ➡️ *TSK*
+:::
+
+## B : identifier les facteurs comportementaux
+
+3 grandes catégories de comportements :
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+1.  *Comportement sain* : une expérience douloureuse ne produit pas ou peu de peur, le patient se confronte à la peur et à la douleur et récupère
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+2.  *Comportement évitant* : le patient évite les mouvements douloureux de peur d'aggraver son état, allant jusqu'au déconditionnement physique
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+::: {.fragment .semi-fade-out fragment-index="4"}
+3.  *Comportement persistant* : le patient continue l'activité malgré la douleur, même lorsque l'activité est perçue comme trop difficile.
+:::
+:::
+
+::: notes
+Sur le long terme, le comportement persistant peut également s'avérer inadapté dans la mesure où il peut résulter en un profil Toblerone, ou profil en yo-yo dans lequel le patient alterne entre des phases d'activité extrême suivie d'inactivité totale pour récupérer.
+
+Il est donc important d'évaluer l'impact des croyances émotions sur les comportements d'adaptation à la douleur ainsi que l'impact desdits comportements sur les activités et la participation (travail, hobbies, activités journalières). Il peut également y avoir des phénomènes de conditionnements importants (quelqu'un qui a mal a force d'être assis devant son bureau toute la journée peut avoir mal uniquement en voyant son bureau) ainsi que des phénomènes de renforcement positifs et négatifs de la douleur (attention des proches, par exemple).
+:::
+
+## S : identifier les facteurs sociaux
+
+Les facteurs sociaux impliqués dans la persistance de la douleur peuvent être divisés en 5 catégories :
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+1.  Le logement
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+2.  L'environnement social
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+::: {.fragment .semi-fade-out fragment-index="4"}
+3.  Le travail
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="4"}
+::: {.fragment .semi-fade-out fragment-index="5"}
+4.  Les relations avec le/la/les partenaires romantiques
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="5"}
+5.  Les traitements antérieurs ou parallèles, notamment les discours maladroits ou délétères qui ont pu être tenus au patient
+:::
+
+## M : identifier la motivation
+
+![Les 6 stades du changement, selon Prochaska et DiClemente](Stades%20du%20changement.png){height="500" fig-align="center" height="800"}
+
+::: notes
+1.  *La précontemplation* : le problème n'est pas conscientisé et il n'y a pas de volonté de changement. Il faut lui donner les informations utiles pour créer de l'ambivalence. **Les patients au stade de pré-contemplation ont besoin de soutien et peuvent être plus résistants ou sur la défensive**
+2.  *La contemplation* : l'ambivalence s'installe et le patient reconnaît qu'il y a un problème. Il pèse le pour et le contre mais n'est pas encore prêt de changer. Il faut alors \[\[Se servir de la dissonance cognitive du patient permet de susciter un désir de changement\|explorer l'ambivalence\]\] avec le patient, évoquer les raisons à changer ou non, observer les différences entre les valeurs de l'individu et ses comportements. **Les patients dans la phase de contemplation peuvent bénéficier de maïeutique pour faire en sorte qu'ils acquièrent eux-mêmes une meilleure compréhension de leur propre condition**
+3.  *La préparation* : le patient se sent prêt à démarrer dans un futur proche ; il faut renforcer le sentiment de capacité personnelle, valoriser toute décision de changement et proposer des stratégies. **Dans le stade de préparation, le rôle de coaching est recommandé**
+4.  *L'action* : le changement devient réel et on peut l'observer ; il faut continuer à renforcer l'individu et encourager chaque petit pas. **Dans les stades d'action et de maintien, un rôle de consultant est nécessaire : apport de conseil d'expert et de soutien.**
+5.  *Le maintien* : phase de consolidation des actions ; explorer les situations plus difficiles ou à risque de rechute ; plan d'urgence de la rechute ; renforcer encore l'ambivalence ponctuellement
+6.  *La rechute* est possible et fait partie du processus de changement. Il faut dédramatiser et déculpabiliser en employant des stratégies d'acceptation et d'autocompassion. Identifier les vulnérabilités et favoriser le changement à nouveau.
+:::
