@@ -245,7 +245,7 @@ L'objectif de l'examen physique est d'appuyer ou de réfuter le tableau de sensi
 Les mauvaises croyances et représentations sur la douleur peuvent être des obstacles importants à la prise en charge. Un patient qui pense que la douleur qu'il ressent lorsqu'il bouge signifie qu'il doit arrêter de bouger va s'enfoncer dans un cercle vicieux de déconditionnement physique. Il faut d'abord déconstruire cette croyance avant de pouvoir espérer faire du progrès.
 
 | Question                                                                                  | Dimension       |
-|------------------------------------|------------------------------------|
+|-------------------------------------------------------------------------------------------|-----------------|
 | D'où vient cette douleur ?                                                                | Identité        |
 | Qu'est-ce qui cause cette douleur ?                                                       | Cause           |
 | Quelles sont les conséquences de la douleur/de telle activité/d'un mouvement douloureux ? | Conséquences    |
