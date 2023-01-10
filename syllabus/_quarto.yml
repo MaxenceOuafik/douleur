@@ -1,0 +1,18 @@
+project:
+  type: book
+
+book:
+  title: "La prise en charge des douleurs persistantes"
+  author: "Maison Médicale de Tilleur & Sclessin"
+  date: "`r Sys.Date()`"
+  chapters:
+    - index.qmd
+    - chapter_1.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image: cover.png
