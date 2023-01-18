@@ -65,12 +65,16 @@ On peut appuyer progressivement sur son épicondyle jusqu'à générer une doule
 
 ## Comment ?
 - Utiliser des métaphores 
-- **DDPQ** 
-  + **Demander** la permission d'expliquer
-  + **Déterminer** les connaissances préalables
-  + **Partager** l'information par morceaux
-  + **Questionner** la compréhension, l'avis et l'impact de l'information sur le patient
+- **DDPQ** : demander, déterminer, partager, questionner
 - Teach back 
+
+::: notes
+- **Demander** la permission d'expliquer
+- **Déterminer** les connaissances préalables
+- **Partager** l'information par morceaux
+- **Questionner** la compréhension, l'avis et l'impact de l'information
+:::
+
 
 ::: columns
 ::: {.column width="50%"}
@@ -142,7 +146,7 @@ L'échelle fonctionnelle spécifique au patient (PSFS) peut aider à cette fin
 - Commencer par confronter le patient aux activités qui lui font le moins peur et le confronter ensuite à des activités qui l'effraient de plus en plus
 - Continuer l'éducation à la physiologie tout du long
 
-![Utilisation du PHODA pour classer les peurs](PHODA.png){height="600"}
+![Utilisation du PHODA pour classer les peurs](PHODA.png){height="400"}
 
 ## La gestion du stress
 - Relaxation
@@ -160,13 +164,13 @@ L'échelle fonctionnelle spécifique au patient (PSFS) peut aider à cette fin
   + Trop peu = pas d'adaptation
   + Trop = profil toblerone
 
-![L'activité physique graduée](Activit%C3%A9%20physique%20gradu%C3%A9e.png){height="500"}
+![L'activité physique graduée](Activit%C3%A9%20physique%20gradu%C3%A9e.png){height="400"}
 
 --- 
 
 ### Approche time-contingent
 
-![Approche time-contingent versus pain-contingent](Time%20and%20pain-contingent.png){height="500"}
+![Approche time-contingent versus pain-contingent](Time%20and%20pain-contingent.png){height="400"}
 
 ::: notes
 Dans le cadre de la douleur chronique, on va préférer une approche **time-contingent** à une approche **pain-contingent**. Autrement dit, on commence avec un niveau d'activité très bas que l'on augmentera graduellement, indépendamment du niveau de douleur du patient, plutôt qu'une approche où l'on s'arrête dès que le patient a mal, ce qui serait contre-productif. **La seule limite à cela est de veiller à ce que le patient ne dépasse pas sa capacité maximale d'adaptation**, ce qui se manifestera par une douleur et un épuisement intense, voire de la raideur et des gonflement le(s) jour(s) suivant(s). Si cela arrive, on lui conseillera d'en faire un peu moins et de se relancer quand même. 
