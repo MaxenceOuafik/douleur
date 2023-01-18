@@ -1,0 +1,269 @@
+---
+title: "Formation douleurs chroniques (partie II)"
+format:
+  revealjs:
+    transition: fade
+    transition-speed: slow
+    theme: [default, theme.scss]
+    slide-number: true
+    chalkboard: true
+    multiplex: true
+editor:
+  render-on-save: true
+logo: logo.png
+footer: "Douleurs chroniques — Prise en charge"
+---
+
+# Principes de la prise en charge {background-color="#006f7d"}
+## La douleur n'est pas l'objectif. 
+
+- On vise avant tout à permettre au patient d'améliorer sa qualité de vie en travaillant les activités et la participation, tout en favorisant l'autogestion des symptômes. 
+- Il faudra donc établir avec le patient des objectifs centrés sur les activités et la participation. 
+
+![Modèle ICF](ICF.png){height="400"}
+
+::: callout-important
+L'amélioration de la douleur ne vient qu'ultérieurement et peut mettre du temps avant de se marquer.
+:::
+
+::: notes
+À cette fin, le *modèle ICF* permet de faire la part des choses entre la structure/fonction, l'activité, et la participation :
+- La **fonction et la structure** correspondent à tout ce qui touche à la douleur, la mobilité, la force, et aux autres symptômes somatiques
+- Les **activités** consistent en des actions telles que marcher, s'asseoir, se laver, monter les escaliers...
+- La **participation** consiste à des tâches plus complexes telles que le travail ou les loisirs 
+- À cela se rajoutent les **facteurs externes** tels que l'environnement familial et professionnel, les conditions de vie, et les adaptations possibles, ainsi que les **facteurs internes** telles que les comorbidité, les [[C - Identifier les facteurs cognitifs|croyances, représentations, et peur]], les motivations, et l'auto-efficacité. 
+:::
+
+## Pas d'imagerie
+
+- Effet nocebo démontré
+- Lésions banales **(arthrose)** au lien causal incertain et, tout au plus, partiel
+- Éviter les termes anxiogènes **(dégénérescence, arthrose, usure, abîmé)**
+- Privilégier un langage neutre et rassurant **(l'imagerie ne met rien de particulier en évidence ; on ne retrouve que des modifications tout-à-fait habituelles pour des personnes de votre âge)**
+
+## Les 5 étapes de la prise en charge
+
+1. Modèle PSCEBSM
+2. Éducation à la neurophysiologie de la douleur
+3. Entretien motivationnel
+4. Détermination des objectifs
+5. Plan de traitement
+
+# L'éducation à la neurophysiologie de la douleur {background-color="#006f7d"}
+## Pourquoi ?
+- Permet intrinsèquement une amélioration du patient
+- Reste insuffisante seule et devra être combiné à l'activité physique
+
+## Quoi ?
+- La **sensibilisation centrale** qui entraîne la douleur nociplastique chronique et l'activation précoce du système d'alarme
+- Le découplage entre **douleur** et **lésion**. 
+- L'importance des **facteurs psychosociaux** et la nécessité de leur prise en charge
+
+::: notes
+On peut appuyer progressivement sur son épicondyle jusqu'à générer une douleur. Puis lui demander s'il y a eu douleur (oui) et s'il pense qu'on a créé une lésion (non). Cela permet de faire comprendre au patient qu'il existe une marge de sécurité entre la douleur et la lésion
+:::
+
+## Comment ?
+- Utiliser des métaphores 
+- **DDPQ** 
+  + **Demander** la permission d'expliquer
+  + **Déterminer** les connaissances préalables
+  + **Partager** l'information par morceaux
+  + **Questionner** la compréhension, l'avis et l'impact de l'information sur le patient
+- Teach back 
+
+::: columns
+::: {.column width="50%"}
+![Le système d'alarme](Alarme.png){height="400"}
+:::
+::: {.column width="50%"}
+![Douleur et lésion](Perception%20de%20la%20douleur.png){height="400"}
+:::
+:::
+
+# L'entretien motivationnel {background-color="#006f7d"}
+## Définition
+L'entretien motivationnel une approche centrée sur le patient s'efforçant à lui faire modifier ses comportements de santé. Plus qu'une technique d'écoute, il s'agit d'une technique de persuasion active.
+
+# Détermination des objectifs {background-color="#006f7d"}
+
+## Objectifs SMART 
+
+::: {.callout-tip}
+Préférer des objectifs fonctionnels tels que *"Je veux marcher un quart d'heure"* plutôt que des objectifs centrés sur la douleur du style *Je veux arrêter d'avoir mal*
+
+L'échelle fonctionnelle spécifique au patient (PSFS) peut aider à cette fin
+:::
+
+::: {.fragment .fade-in fragment-index="1"}
+::: {.fragment .semi-fade-out fragment-index="2"}
+- Spécifique
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="2"}
+::: {.fragment .semi-fade-out fragment-index="3"}
+- Mesurable
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="3"}
+::: {.fragment .semi-fade-out fragment-index="4"}
+- Atteignable
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="4"}
+::: {.fragment .semi-fade-out fragment-index="5"}
+- Pertinents pour le patient (*relevant*)
+:::
+:::
+
+::: {.fragment .fade-in fragment-index="5"}
+- Temporellement définis
+:::
+
+
+# Les différents outils du plan de traitement {background-color="#006f7d"}
+## Vue d'ensemble 
+- Exposition graduelle
+- Techniques manuelles
+- Gestion du stress
+- Prise en charge des troubles du sommeil 
+- Coaching de vie
+- Activité physique graduée
+- Gestion de la reprise du travail et des activités
+- Médicaments
+
+
+## L'exposition graduelle
+- Permet de lutter contre la kinésiophobie (la dépister !)
+- Établir une hiérarchie des peurs (**PHODA**)
+- Commencer par confronter le patient aux activités qui lui font le moins peur et le confronter ensuite à des activités qui l'effraient de plus en plus
+- Continuer l'éducation à la physiologie tout du long
+
+![Utilisation du PHODA pour classer les peurs](PHODA.png){height="600"}
+
+## La gestion du stress
+- Relaxation
+- Méditation
+- Hypnose
+- Pleine conscience
+
+## Prise en charge des troubles du sommeil
+- Hygiène du sommeil
+- Technique de contrôle du stimulus
+
+## Activité physique graduée
+- Pierre angulaire du traitement
+- Objectif : travailler dans la zone d'adaptation
+  + Trop peu = pas d'adaptation
+  + Trop = profil toblerone
+
+![L'activité physique graduée](Activit%C3%A9%20physique%20gradu%C3%A9e.png){height="500"}
+
+--- 
+
+### Approche time-contingent
+
+![Approche time-contingent versus pain-contingent](Time%20and%20pain-contingent.png){height="500"}
+
+::: notes
+Dans le cadre de la douleur chronique, on va préférer une approche **time-contingent** à une approche **pain-contingent**. Autrement dit, on commence avec un niveau d'activité très bas que l'on augmentera graduellement, indépendamment du niveau de douleur du patient, plutôt qu'une approche où l'on s'arrête dès que le patient a mal, ce qui serait contre-productif. **La seule limite à cela est de veiller à ce que le patient ne dépasse pas sa capacité maximale d'adaptation**, ce qui se manifestera par une douleur et un épuisement intense, voire de la raideur et des gonflement le(s) jour(s) suivant(s). Si cela arrive, on lui conseillera d'en faire un peu moins et de se relancer quand même. 
+:::
+
+## Les médicaments
+- Place très limitée dans la douleur chronique
+- Se limiter aux antalgiques de pallier 1
+- Si douleur neuropathique, certains antalgiques atypiques sont intéressants
+  + Amitryptilline
+  + Duloxétine
+  + Gabapentine
+  + Prégabaline
+
+::: callout-warning
+Faible niveau de preuves et efficacité modérée des antalgiques atypiques
+:::
+
+---
+
+### Les opioïdes
+
+::: callout-caution
+Les opioïdes sont à proscrire de la prise en charge de la douleur chronique !
+:::
+
+---
+
+### Raison N°1 : ils sont inefficaces
+
+- Quasiment aucun effet positif sur la douleur chronique (-1/10 sur l'échelle analogique de douleur et +1/10 sur une échelle fonctionnelle, par rapport à un placebo). 
+- 10-15% de répondeurs par rapport au placebo.
+- Aucun RCT de plus de six mois
+
+---
+
+### Raison N°2 : ils ont de lourds effets indésirables
+::: columns
+::: {.column}
+Effets indésirables précoces
+
+- Nausées, vomissements
+- Constipation
+- Dépression respiratoire
+- Sédation 
+:::
+
+::: {.column}
+Effets indésirables tardifs
+
+- Hyperalgésie par sensibilisation du SNC
+- Hypogonadisme, dysfonction sexuelle
+- Chutes, fractures
+- Apnées du sommeil
+:::
+
+:::
+
+En outre, **un syndrome sérotoninergique** peut survenir avec le Fentanyl, l'Hydromophone, l'Oxycodone, la Péthidine, le Tapentadol, et le Tramadol
+
+---
+
+### Raison N°3 : ils entraînent une dépendance
+- La Belgique se situe dans les **6 premiers consommateurs d'opioïdes au monde**
+- En 2019, la Belgique était le premier consommateur au monde de Tramadol. 
+-  **10%** des belges se sont vu prescrire des opioïdes en 2017 
+-  3% sont des *grands consommateurs chroniques*, lesquels représentent 34% de toutes les DDD délivrées cette années. 
+- La présence de douleurs chroniques est un facteur de risque de la dépendance aux opioïdes
+
+::: {.callout-important}
+Mieux vaut éviter une consommation problématique que chercher ensuite à la guérir
+:::
+
+::: notes
+**75%** des grands consommateurs chroniques ont plus de 50 ans, dont **25%** qui ont plus de 70 ans.
+:::
+
+--- 
+
+Leurs effets indésirables les rendent contre-productifs dans la douleur chronique car ils interfèrent avec l'activité physique, au centre du traitement, et majorent la sensibilisation du SNC, le tout sans apporter d'efficacité notable et en créant un risque réel de dépendance.
+
+## S'il faut passer la main
+
+La communication est importante si on réfère à un physio ou en clinique de la douleur : 
+
+- Motif de la consultation
+- Éléments du modèle ICF
+- Résultats des questionnaires
+- Obstacles et motivations des patients
+- Objectifs spécifiques du patient et du traitement
+- Traitement actuel et plan de traitement
+- Résultat actuel du traitement
+
+# Conclusion {background-color="#006f7d"}
+
+---
+
+Prendre en charge un patient douloureux chronique est un travail multidisciplinaire de longue haleine mais, avec une approche commune et un peu de formation, on peut s'en sortir !
+
+![](Team.jpg){fig-align="center" height="600"}
